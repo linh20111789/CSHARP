@@ -31,6 +31,11 @@ namespace InheritancePolymorphism
         public void Sleep()
         {
             Console.WriteLine(">>Sleep<<");
+            Console.WriteLine(">>Sleep<<");
+            Console.WriteLine(">>Sleep<<");
+            Console.WriteLine(">>Sleep<<");
+            Console.WriteLine(">>Sleep<<");
+            Console.WriteLine(">>Sleep<<");
         }
 
     }
