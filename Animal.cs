@@ -26,16 +26,17 @@ namespace InheritancePolymorphism
         public virtual void Move()
         {
             Console.WriteLine(">>>Move<<<");
+            Console.WriteLine(">>>Move<<<");
+            Console.WriteLine(">>>Move<<<");
+            Console.WriteLine(">>>Move<<<");
+            Console.WriteLine(">>>Move<<<");
         }
 
         public void Sleep()
         {
             Console.WriteLine(">>Sleep<<");
             Console.WriteLine(">>Sleep<<");
-            Console.WriteLine(">>Sleep<<");
-            Console.WriteLine(">>Sleep<<");
-            Console.WriteLine(">>Sleep<<");
-            Console.WriteLine(">>Sleep<<");
+   
         }
 
     }
