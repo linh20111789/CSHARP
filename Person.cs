@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace o7planning.CSharp
 {
-    class Person
+    public abstract class Person 
     {
+        // Default constructor
+        public Person()
+        {
+            Console.WriteLine("Person");
+        }
     }
 }

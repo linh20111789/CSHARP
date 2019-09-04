@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace InheritancePolymorphism
 {
-    class Cat
+    public abstract class Cat
     {
+        // Default constructor
+        public Cat()
+        {
+            Console.WriteLine("Cat");
+        }
     }
 }

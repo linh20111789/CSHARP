@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace InheritancePolymorphism
 {
-    class Dog
+    public abstract class Dog
     {
+        // Default constructor
+        public Dog()
+        {
+            Console.WriteLine("Dog");
+        }
     }
 }
