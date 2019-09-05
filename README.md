@@ -1,2 +1,1 @@
-# CSHARP
- FIRST EXAMPLE
+ #Huong dan Git co ban 
