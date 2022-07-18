@@ -12,6 +12,7 @@ namespace InheritancePolymorphism
         public Cat()
         {
             Console.WriteLine("Cat");
+            Console.WriteLine("Test.............");
         }
     }
 }
